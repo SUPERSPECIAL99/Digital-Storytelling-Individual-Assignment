@@ -26,7 +26,7 @@
 ![image](https://user-images.githubusercontent.com/101881250/227025450-8d1ad44b-12ee-4287-9aea-63ff06dbe0fa.png)
 
 
-3)
+## UNIT 4
 
 κατέβασα το unit 4 starter files άνοιξα το scene που ονομάζεται creative challenge και ξεκίνησα να την επεξεργάζομαι.  αρχικά τοποθέτησα την κάμερα στο σημείο που ήθελα και ξεκίνησα να προσθέτω χαρακτήρες ώστε να δημιουργήσω μια κίνηση στην πόλη. Πρόσθεσα έναν άνθρωπο ο οποίος περπατάει δίπλα τον δρόμο βάζοντας του ένα animation στο οποίο στέκεται και μετά ένα που περπατάει. μετά ξεκινησα να κάνω record  την κίνηση των αυτοκίνητων και πρόσθεσα ακόμα ένα το οποίο στρίβει .  εβαλα την κάμερα να κινείται μαζί με τα αυτοκίνητα και μετά να εστιάζει στους χαρακτήρες. τέλος έβαλα μια γάτα να τρέχει σε ένα στενό και να συναντάει τον χαρακτήρα .
 
@@ -35,6 +35,21 @@
 
 
 # 2nd Deliverable
+
+## UNIT 6 
+
+ακολουθησα τα steps ποτ φαινονται στο tutorial και αυτα ειναι μερικα στιγμιοτυπα που φαινονται :)
+
+
+![Screenshot (1)](https://user-images.githubusercontent.com/101881250/236231831-36f4ddbd-de61-4b36-b76a-b7f7cdb04dfb.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/101881250/236231858-3de81d84-f57b-4e7d-aa95-8057b484784b.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/101881250/236231864-6af57d0c-352d-44b7-bbf6-fac75331bf30.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/101881250/236231871-d0b03a19-6cd8-4f3d-ac8e-f4632d9d39ec.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/101881250/236231877-00d20db8-ff8d-4e85-acac-5669ce322aba.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/101881250/236231880-cb7c7f80-2743-426b-9d43-62ebaf393199.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/101881250/236231883-fc68dff5-1a8c-4158-b64d-e637976128be.png)
+
+https://user-images.githubusercontent.com/101881250/236233252-8c18ed4b-d168-438e-8477-86d45c8ace05.mp4
 
 
 
