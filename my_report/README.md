@@ -51,8 +51,26 @@
 
 https://user-images.githubusercontent.com/101881250/236233252-8c18ed4b-d168-438e-8477-86d45c8ace05.mp4
 
+UNIT 7 
+
+παλι ακολουθησα τα βηματα που φαινεται στο tutorial βημα βημα 
 
 
+
+
+
+![Screenshot (14)](https://user-images.githubusercontent.com/101881250/236516267-37725ec8-aa22-4701-8c86-f131b7da3e30.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/101881250/236516280-e3701b10-b1c9-4585-85d2-c55338fa8f45.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/101881250/236516284-efa11709-76ed-4003-b7df-72e755fd3734.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/101881250/236516289-8dc4d343-d4d5-444e-8fd0-785f8c407840.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/101881250/236516291-6bf86866-9533-4ad1-a849-0e30d583a1ee.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/101881250/236516293-63c4bfc0-28ef-4e27-8658-d9c575706d8e.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/101881250/236516298-51cbb278-5563-48b7-a171-83cfa4f72106.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/101881250/236516300-57cf6613-572b-4cfd-b0f7-5bf8070af1dc.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/101881250/236516303-d6f90ed4-b3aa-4937-aaa6-ba17a4596ae9.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/101881250/236516304-ecff628d-2526-4140-9c4e-11e28975e982.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/101881250/236516308-3d74a027-6e8e-4c62-b2c3-70467f33c7e6.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/101881250/236516311-e648ae4f-e138-40b6-943f-ec365cd64e61.png)
 
 
 # 3rd Deliverable 
