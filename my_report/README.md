@@ -35,10 +35,27 @@
 
 
 # 2nd Deliverable
+## UNIT 5
+
+Στo 5, χρησιμοποίησα εικονικές κάμερες για να καταγράψω λήψεις από διαφορετικές γωνίες ταυτόχρονα στη ροή βίντεο. Μέσα στην εντολή gameobject, πρόσθεσα 4 εντολές εικονικής κάμερας τις οποίες τοποθέτησα σε διαφορετικές θέσεις στη σκηνή και έκαναν διαφορετικές κινήσεις για να καλύψουν κάθε γωνία των κινήσεων του σκύλου και της γάτας. Στο timeline σε διαφορετικές διάρκειες του βίντεο ενώνοντας ελαφρώς τα ξεχωριστά πακέτα βίντεο από κάθε κάμερα.
+
+
+
+
+![Screenshot (22)](https://user-images.githubusercontent.com/101881250/236812358-e48d66dc-6fda-440c-96e1-dbe84f9107d8.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/101881250/236812367-6f97e8d4-7787-4d3f-a596-e9bdd178e541.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/101881250/236812377-d39abaab-451b-45c5-a0e0-beb5b842c625.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/101881250/236812381-0841c70e-68b3-48e1-92f4-f234a2aae4ce.png)
+
+
+
+
+
 
 ## UNIT 6 
 
-ακολουθησα τα steps ποτ φαινονται στο tutorial και αυτα ειναι μερικα στιγμιοτυπα που φαινονται :)
+Στ 6 τοποθετησα φωτισμό σε διαφορετικά σημεία της σκηνής. Αρχικά δημιουργήσαμε ένα gameobject που ονομάζεται Lighting και δημιουργήσαμε 3 child objects μέσα σε αυτό για το δρομάκι, το κατάστημα και το δρόμο. Σε κάθε ένα από αυτά, τοποθετήσαμε spotlights και  lights για να φωτίσουμε τις πόρτες του πίνακα και τους δρόμους. Στη συνέχεια, μέσω του timeline, δημιουργήσαμε τροχιές για κάθε spotlight και penalty light έτσι ώστε να μπορέσουμε να δημιουργήσουμε εφέ, όπως αναβοσβήσεις ή σταθερό φωτισμο
+
 
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/101881250/236231831-36f4ddbd-de61-4b36-b76a-b7f7cdb04dfb.png)
@@ -50,6 +67,8 @@
 ![Screenshot (7)](https://user-images.githubusercontent.com/101881250/236231883-fc68dff5-1a8c-4158-b64d-e637976128be.png)
 
 https://user-images.githubusercontent.com/101881250/236233252-8c18ed4b-d168-438e-8477-86d45c8ace05.mp4
+
+δεν ακουγεται ο
 
 UNIT 7 
 
