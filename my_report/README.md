@@ -47,6 +47,13 @@
 ![Screenshot (20)](https://user-images.githubusercontent.com/101881250/236812377-d39abaab-451b-45c5-a0e0-beb5b842c625.png)
 ![Screenshot (23)](https://user-images.githubusercontent.com/101881250/236812381-0841c70e-68b3-48e1-92f4-f234a2aae4ce.png)
 
+για καποιον λογο δεν μπορω να κανω record απο το UNITY οποτε το εβγαλα  με το κινητο μου 
+
+![Screenshot (25)](https://user-images.githubusercontent.com/101881250/236825355-f01435e8-e309-4529-802b-3e63ab7adb4c.png)
+
+
+
+https://user-images.githubusercontent.com/101881250/236824734-a1a5ad65-b1d2-4266-bde1-bf82db6932c5.mp4
 
 
 
